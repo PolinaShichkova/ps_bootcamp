@@ -1,2 +1,3 @@
-# ps_bootcamp
-Polina's notes during JB Python Bootcamp
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
